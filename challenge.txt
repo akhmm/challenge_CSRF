@@ -1,1 +1,2 @@
-https://google-gruyere.appspot.com/GRUYEREINSTANCEID/deletesnippet?index=0
+Challenge 1 :  <script>alert("hello")</script>
+Challenge 2 :  <img src=1 onerror=alert(error)>
